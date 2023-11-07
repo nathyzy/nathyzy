@@ -1,3 +1,6 @@
 <DOCTYPE html>
 <html lang="pt-br">
-<meta charset="utl
+     <head>
+          <meta charset="UTF-8">
+          <title>Barbearia Alura</title>
+          <link rel="stylesheet
